@@ -1,0 +1,19 @@
+{
+  "name": "request-load-time",
+  "version": "1.0.0",
+  "description": "Small JS project - to test request module load times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eugene@uilicious.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cache-require-paths": "^0.3.0",
+    "needle": "^2.4.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0",
+    "tiny-json-http": "^7.1.2"
+  }
+}

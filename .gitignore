@@ -1,0 +1,6 @@
+# Common ignores
+.*
+!.gitignore
+!.gitmodules
+!.npmignore
+node_modules
